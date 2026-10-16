@@ -1,0 +1,1 @@
+A simple HTML page that renders a table with the status, info, and links to all testnet and mainnet nodes hosted by NEAR One. Relies on the IP export script in `infra-ops` repo that runs every 15 minutes.
